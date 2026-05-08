@@ -24,4 +24,4 @@ Data Architect
 Data Engineering
 ETL Pipeline Developer
 Data Modeling
-Data Analytics
+Data Analytics 
